@@ -1,3 +1,49 @@
-O MySQL é um sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL (Linguagem de Consulta Estruturada, do inglês Structured Query Language) como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation, com mais de 10 milhões de instalações pelo mundo.
+# 🗄️ MySQL — Estudos e Projetos
 
-Entre os usuários do banco de dados MySQL estão: NASA, Friendster, Banco Bradesco, Dataprev, HP, Nokia, Sony, Lufthansa, U.S. Army, U.S. Federal Reserve Bank, Associated Press, Alcatel, Slashdot, Cisco Systems, Google, entre outros.
+Este repositório reúne meus estudos, exercícios e projetos desenvolvidos utilizando **MySQL** e **SQL**.
+
+O objetivo é registrar minha evolução no aprendizado de bancos de dados e colocar em prática os principais conceitos relacionados à criação, organização e manipulação de dados.
+
+---
+
+## 📚 Sobre o repositório
+
+Aqui estão reunidos exercícios e projetos utilizados para praticar conceitos de banco de dados e SQL.
+
+Durante os estudos, são trabalhados conceitos como:
+
+- Criação de bancos de dados;
+- Criação de tabelas;
+- Inserção de dados;
+- Alteração de dados;
+- Exclusão de dados;
+- Consultas SQL;
+- `SELECT`;
+- `WHERE`;
+- `ORDER BY`;
+- `GROUP BY`;
+- `HAVING`;
+- `JOIN`;
+- `INNER JOIN`;
+- `LEFT JOIN`;
+- Funções de agregação;
+- Chaves primárias;
+- Chaves estrangeiras;
+- Relacionamentos entre tabelas;
+- Normalização;
+- Subconsultas;
+- Views;
+- Índices;
+- Procedures;
+- Triggers.
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- **MySQL**
+- **SQL**
+- **MySQL Workbench**
+
+---
+
